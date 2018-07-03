@@ -11,9 +11,9 @@ title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "Songyang Zhang"
 description              : &description "Student at HUST"
-url                      : https://SongyangZhang.site.github.io # the base hostname & protocol for your site e.g. "https://SongyangZhang.site.github.io"
+url                      : https://SongyangZhang25.github.io # the base hostname & protocol for your site e.g. "https://SongyangZhangt25.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SongyangZhang.site.github.io"
+repository               : "SongyangZhang25.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
