@@ -3,14 +3,14 @@ title: "Interdisciplinary Contest In Modeling"
 collection: teaching
 type: "Evaluation and Prediction Model of Regional Water Stress Indicator"
 permalink: /teaching/2016-spring-ICM
-venue: " "
+venue: 
 date: 2016-02-01
 location: "City, Country"
 ---
 
 In February 2016, together with two other classmates, I participated in the American Mathematical Modeling Competition. One classmate was responsible for writing reports and assisting. The other one focued on the calculation of load programming and problem solving. I mainly worked on mathematical modeling, choosing the right solution to complete the model design.
 
-During the 3-day contest, my main job was to collect date in agricultural, industrial, and other water use aspects from the National Bureau of Statistics of China, choosing Principal Component Analysis (PCA) method and Analytic Hierarchy Process (AHP) Method to complete the water resources analysis in North China area. The method is establishing a scoring model, calculating and analyzing the data. It scored the regional water resources and compared the severity of the water shortage in different area by giving different weights to each factor.
+During the 3-day contest, my word was collecting date of water use in agricultural, industrial, and other aspects from the National Bureau of Statistics of China, choosing Principal Component Analysis (PCA) method and Analytic Hierarchy Process (AHP) Method to complete the water resources analysis in North China area. The method is establishing a scoring model, calculating and analyzing the data. It scored the regional water resources and compared the severity of the water shortage in different area by giving different weights to each factor.
 
 Finally we won the Honorable Mention in Interdisciplinary Contest In Modeling
 
@@ -54,11 +54,3 @@ the domestic water is increasing in 15 years.
 In task 4 and task 5, we design an intervention plan taking all the drivers of water scarcity
 into account. After that, we analyze the impact of our intervention. Some measures to ease the water scarcity in North China are put forward.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
