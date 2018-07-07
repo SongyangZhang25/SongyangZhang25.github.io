@@ -1,9 +1,9 @@
 ---
 title: "Brushless doubly fed machine"
 collection: teaching
-type: "Brushless doubly fed machine"
+type: "Training"
 permalink: /teaching/2017-autumn-BDFM
-venue: 
+venue: "Simulation"
 date: 2017-09-01
 location: "City, Country"
 ---
