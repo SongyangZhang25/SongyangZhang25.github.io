@@ -3,7 +3,7 @@ title: "National Undergraduate Electronics Design Contest"
 collection: teaching
 type: "Design of a Simple Frequency Meter"
 permalink: /teaching/2014-spring-teaching-1
-venue: "06/2015 to 08/2016"
+venue: " "
 date: 2015-07-15
 location: "City, Country"
 ---
