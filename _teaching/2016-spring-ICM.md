@@ -3,7 +3,7 @@ title: "Interdisciplinary Contest In Modeling"
 collection: teaching
 type: "Evaluation and Prediction Model of Regional Water Stress Indicator"
 permalink: /teaching/2016-spring-ICM
-venue: 
+venue: "Contest"
 date: 2016-02-01
 location: "City, Country"
 ---
