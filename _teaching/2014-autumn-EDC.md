@@ -2,7 +2,7 @@
 title: "National Undergraduate Electronics Design Contest"
 collection: teaching
 type: "Design of a Simple Frequency Meter"
-permalink: /teaching/2014-EDC
+permalink: /teaching/2014-autumn-EDC
 venue: " "
 date: 2015-07-15
 location: "City, Country"
