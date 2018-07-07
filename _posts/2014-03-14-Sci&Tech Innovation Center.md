@@ -1,7 +1,7 @@
 ---
-title: 'Sci&Tech Innovation Center (STI) of HUST'
-date: 2015-08-14
-permalink: /posts/2012/08/Sci&Tech Innovation Center/
+title: 'Sci&Tech Innovation Center'
+date: 2014-03-14
+permalink: /posts/2014/03/14/Sci&Tech Innovation Center/
 tags:
   - cool posts
   - category1
