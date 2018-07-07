@@ -3,12 +3,12 @@ title: "National Undergraduate Electronics Design Contest"
 collection: teaching
 type: "Design of a Simple Frequency Meter"
 permalink: /teaching/2014-autumn-EDC
-venue: " "
+venue: 
 date: 2015-07-15
 location: "City, Country"
 ---
 
-In July 2015, together with two other classmates, I participated in the National Undergraduate Electronic Design Competition. One classmate was responsible for software programming, the other finished the game report and helped us debugging. I was responsible for designing hardware circuit making and debugging.Our team chose the F question, designing and building the simple digital frequency within the relatively short contest time of 3 days and 4 nights, and the scores of the F question are as follows:
+In July 2015, together with two other classmates, I participated in the National Undergraduate Electronic Design Competition. One classmate was responsible for software programming, the other finished the report and helped us debugging. I was responsible for designing hardware circuit making and debugging.Our team chose the F question, designing and building the simple digital frequency within the relatively short contest time of 3 days and 4 nights. And the scores of the F question are as follows:
 
 Design and build a digital frequency meter with a gate time of 1s
 * the requirements
