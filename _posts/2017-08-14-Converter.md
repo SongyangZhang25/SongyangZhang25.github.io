@@ -3,9 +3,9 @@ title: 'Design of a Back-to-back Converter'
 date: 2017-08-14
 permalink: /posts/2017/08/14/Converter
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Project
+  - Hardwork
+  - Softwork
 ---
 The laboratory I am currently working in needs to build a platform for motor drive experiences. In the establishment process I independently design and build the required back-to-back converter. The converter mainly functions as an output of 5A rated current and it is capable of EtherCAT communication. In the design process I am responsible for the design of the main circuit, controller, measuring and feedback circuit of the converter.
 
