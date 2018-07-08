@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 Songyang Zhang
-I am currently a Graduate Student in Energy Conversion System Research Group at Huazhong University of Science and Technology (HUST).And my tutor is [Wei Xu] (http://machinececs.seee.hust.edu.cn/info/1037/1397.htm).  Before that, I received my B.S. degree from Huazhong University of Science and Technology.
+I am currently a Graduate Student in Energy Conversion System Research Group at Huazhong University of Science and Technology (HUST).And my tutor is
+[Wei Xu](http://machinececs.seee.hust.edu.cn/info/1037/1397.htm)
+Before that, I received my B.S. degree from Huazhong University of Science and Technology.
 My research interests include Power Electronics, Power Conversion Systems. 
 In particular, I focus on image search and classification, semantic segmentation, 2D/3D shape recognition and person re-identification.
