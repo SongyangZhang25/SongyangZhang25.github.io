@@ -33,18 +33,18 @@ Project experience
  Contest experience
 ======
 * Design of a Simple Frequency Meter in National Undergraduate Electronics Design Contest 06/2015-08/2015
-  * Developed a Factor Decomposition Model via the Logarithmic Mean Divisible Index (LMDI) and explored the time-related agricultural water consumption by using a Linear Regression Model
+  * Accomplished training, including producing a Wide-band DC amplifier, a simple digital signal transmission performance analyzer, and a simple digital oscilloscope
   * Responsible for designing hardware circuit making and debugging efficiently within the relatively short contest time of 3 days and 4 nights
 
 * Evaluation and Prediction Model of Regional Water Stress Indicator 02/2015
-  * Designed the main circuit and controller of the converter, conducted PCB layout and routing plus device selection
-  *  Evaluated the reasons for the scarcity of water in northern China 
-  * AAnalyzed the tendency of water consumption in northern China from 3 different aspects
+  * Developed a Factor Decomposition Model via the Logarithmic Mean Divisible Index (LMDI) and explored the time-related agricultural water consumption by using a Linear Regression Model
+  * Evaluated the reasons for the scarcity of water in northern China 
+  * Analyzed the tendency of water consumption in northern China from 3 different aspects
   
  Training experience
 ======
-* Science and Technology Innovation Center, STI, HUSTt 06/2014-09/2016
-  * Grasped basic device selection, hardware schematic diagram, PCB layout design, artificial copper clad board making and other hardware skills
+* Science and Technology Innovation Center, STI, HUST 06/2014-09/2016
+  * Learned basic device selection, hardware schematic diagram, PCB layout design, artificial copper clad board making and other hardware skills
   * Completed a circuit design on a weekly basis, including the Double LDO differential amplifier, high precision AD/DA circuits, IIR digital filter, FPGA DDS output, Wideband wide power amplifier
   * Learned Xilinx FPGA programming, VerilogHDL language application, Xilinx ISE operation
 
