@@ -20,11 +20,11 @@ The wireless communication module can communicate with the communication module 
 ![2](http://SongyangZhang25.github.io/images/EIWS3.jpg) 
 
 
-intelligent early warning device
+Intelligent early warning device
 
 ![2](http://SongyangZhang25.github.io/images/EIWS4.jpg)
 
-electric field detection device
+Electric field detection device
 
 ![2](http://SongyangZhang25.github.io/images/EIWS1.jpg)
 
@@ -32,12 +32,12 @@ intelligent early warning device
 
 ![2](http://SongyangZhang25.github.io/images/EIWS2.jpg)
 
-electric field detection device
+Electric field detection device
 
 ![2](http://SongyangZhang25.github.io/images/EIWS6.png) 
 
-intelligent early warning device
+Intelligent early warning device
 
 ![2](http://SongyangZhang25.github.io/images/EIWS7.png)
 
-electric field detection device
+Electric field detection device
