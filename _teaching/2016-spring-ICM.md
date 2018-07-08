@@ -8,7 +8,7 @@ date: 2016-02-01
 location: "City, Country"
 ---
 
-In February 2016, together with two other classmates, I participated in the American Mathematical Modeling Competition. One classmate was responsible for writing reports and assisting. The other one focued on the calculation of load programming and problem solving. I mainly worked on mathematical modeling, choosing the right solution to complete the model design.
+In February 2016, together with two other classmates, I participated in the American Mathematical Modeling Competition. One classmate was responsible for writing reports and assisting. The other one focused on the calculation of  programming and problem solving. I mainly worked on mathematical modeling, choosing the right solution to complete the model design.
 
 During the 3-day contest, my word was collecting date of water use in agricultural, industrial, and other aspects from the National Bureau of Statistics of China, choosing Principal Component Analysis (PCA) method and Analytic Hierarchy Process (AHP) Method to complete the water resources analysis in North China area. The method is establishing a scoring model, calculating and analyzing the data. It scored the regional water resources and compared the severity of the water shortage in different area by giving different weights to each factor.
 
