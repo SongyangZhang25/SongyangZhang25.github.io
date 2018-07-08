@@ -59,7 +59,7 @@ Skills
   * Markdown
 
 Language
-======  * C++ 
+======  
   * Cantonese (Native) 
   * Chinese Mandarin
   * English (Fluent)
