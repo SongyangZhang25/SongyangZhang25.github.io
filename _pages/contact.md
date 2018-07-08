@@ -11,7 +11,7 @@ redirect_from:
 
 Email
 ======
-I strongly recommand you contacting me by my gmail. Alternatively, you could also send me emails to my "@hust.edu.cn" address before I graduate from HUST in June 2019. 
+I strongly recommend you contacting me by my gmail. Alternatively, you could also send me emails to my "@hust.edu.cn" address before I graduate from HUST in June 2019. 
 * songyangzhang25@gmail.com
 * songyangzhang@hust.edu.cn
 
