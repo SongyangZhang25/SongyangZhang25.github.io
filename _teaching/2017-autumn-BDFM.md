@@ -13,5 +13,6 @@ Brushless doubly-fed machine （BDFM）is the research subject of my research gr
 In the lab my platform circuit work contains production of voltage and current sampling circuit board. Software work include DSP controller CAN communication programming. Experimental work focuses on shifting nonlinear load，variable load，and speed sensorless.
 Besides I built the Mtalab model for the direct power control of BDFM, and also used the DDSRF and MSOGI methods for harmonic analysis simulation under nonlinear load conditions. 
 
-![ ](http://SongyangZhang25.github.io/images/BDFM.jpg)
+![ ](http://SongyangZhang25.github.io/images/BDFM.png)
 
+BDFM independent generation experiment system
