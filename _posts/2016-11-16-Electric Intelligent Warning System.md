@@ -5,7 +5,7 @@ permalink: /posts/2016/03/16/Electric Intelligent Warning System/
 tags:
   - Project
   - HW
-
+  -  
 ---
 This project is an equipment of high voltage approach electric intelligent warning system, which mainly contains two parts: electric field detection device and intelligent early warning device. The electric field detection device and the intelligent early warning device are connected by wireless communication. The early warning system can accurately detect and indicate the distance between the vehicles or people in the vicinity of the high-voltage power equipment and the dangerous boundary.
 
