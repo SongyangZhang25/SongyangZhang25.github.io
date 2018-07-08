@@ -13,11 +13,4 @@ The DIPIPM module from the Mitsubishi Electric is chosen for the main circuit, a
 For the controller circuit, the Infineon XMC4800 chip is used in the design, and the schematic diagram is finished basing on the circuit diagram of the controller for XMC4400 converter, the PCB of which is designed by professional engineers. 
 The measuring circuit is the common schematic diagram for measuring the voltage and the current. Above this, I also finish the PCB layout design and soldering job.
 
-Headings are cool
-======
 
-You can have many headings
-======
-
-Aren't headings cool?
-------
