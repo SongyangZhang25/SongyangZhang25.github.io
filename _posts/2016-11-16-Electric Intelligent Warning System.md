@@ -16,3 +16,7 @@ The electric field induction module in the electric field detection device conta
 The intelligent early warning device comprises a wireless communication module, a GSM communication module, a user input and display module, a power management module and a microprocessor control module.
 
 The wireless communication module can communicate with the communication module of the electric field detection device, receiving data and sending instructions, and the GSM communication module can send early warning information to the predetermined phone number in the case of early warning and receive corresponding messages by SMS. The user input and display module integrates the input and output elements such as buttons, LED lights, buzzer, etc. to realize user setting and security warning. The power management module and the microprocessor control module are the same as those mentioned in the electric field detection device
+
+![2](http://SongyangZhang25.github.io/images/EIWS3.jpg) ![2](http://SongyangZhang25.github.io/images/EIWS4.jpg)
+![2](http://SongyangZhang25.github.io/images/EIWS1.jpg) ![2](http://SongyangZhang25.github.io/images/EIWS2.jpg)
+![2](http://SongyangZhang25.github.io/images/EIWS7.png) ![2](http://SongyangZhang25.github.io/images/EIWS6.png)
