@@ -56,7 +56,6 @@ Skills
   * C++ 
   * Matlab 
   * VerilogHDL and VHDL 
-  * Markdown
 
 Language
 ======  
