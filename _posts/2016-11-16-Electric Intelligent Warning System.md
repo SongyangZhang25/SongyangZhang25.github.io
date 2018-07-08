@@ -19,4 +19,4 @@ The wireless communication module can communicate with the communication module 
 
 ![2](http://SongyangZhang25.github.io/images/EIWS3.jpg) ![2](http://SongyangZhang25.github.io/images/EIWS4.jpg)
 ![2](http://SongyangZhang25.github.io/images/EIWS1.jpg) ![2](http://SongyangZhang25.github.io/images/EIWS2.jpg)
-![2](http://SongyangZhang25.github.io/images/EIWS7.png) ![2](http://SongyangZhang25.github.io/images/EIWS6.png)
+![2](http://SongyangZhang25.github.io/images/EIWS6.png) ![2](http://SongyangZhang25.github.io/images/EIWS7.png)
