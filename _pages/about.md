@@ -10,7 +10,7 @@ redirect_from:
 
 Songyang Zhang
 =====
-I am currently a Graduate Student in 
+I am currently a graduate student in 
 [Energy Conversion System Research Group](http://machinececs.seee.hust.edu.cn/ABOUT/Research_Group.htm)
 at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) and my tutor is
 [Wei Xu](http://machinececs.seee.hust.edu.cn/info/1037/1397.htm)
