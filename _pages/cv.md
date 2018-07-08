@@ -52,15 +52,14 @@ Project experience
 
 Skills
 ======
-* Skill 1
-* Programming Skills 2L
-  * C++ 2.1
-  * Matlab 2.2
-  * VerilogHDL and VHDL 2.3
-* Skill 3
+* Programming Skills 
+  * C++ 
+  * Matlab 
+  * VerilogHDL and VHDL 
+  * Markdown
 
-
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Language
+======  * C++ 
+  * Cantonese (Native) 
+  * Chinese Mandarin
+  * English (Fluent)
