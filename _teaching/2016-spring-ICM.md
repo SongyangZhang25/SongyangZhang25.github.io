@@ -18,21 +18,15 @@ Problem Statement
 The International Clean water Movement (ICM) wants your team to help them solve the world’s
 water problems. Can you help improve access to clean, fresh water?
 
-Task 1: Develop a model that provides a measure of the ability of a region to provide clean water
-to meet the needs of its population. You may need to consider the dynamic nature of the factors
-that affect both supply and demand in your modeling process.
+Task 1: Develop a model that provides a measure of the ability of a region to provide clean water to meet the needs of its population. You may need to consider the dynamic nature of the factors that affect both supply and demand in your modeling process.
 
-Task 2: Using the UN water scarcity map (http://www.unep.org/dewa/vitalwater/jpg/0222-
-waterstress-overuse-EN.jpg) pick one country or region where water is either heavily or
-moderately overloaded. Explain why and how water is scarce in that region. Make sure to
-explain both the social and environmental drivers by addressing physical and/or economic
-scarcity.
+Task 2: Using the UN water scarcity map (http://www.unep.org/dewa/vitalwater/jpg/0222-waterstress-overuse-EN.jpg) pick one country or region where water is either heavily ormoderately overloaded. Explain why and how water is scarce in that region. Make sure to
+explain both the social and environmental drivers by addressing physical and/or economic scarcity.
 
 Task 3: In your chosen region from Task 2, use your model from Task 1 to show what the water situation will be in 15 years. How does this situation impact the lives of citizens of this region?
 Be sure to incorporate the environmental drivers’ effects on the model components.
 
-Task 4: For your chosen region, design an intervention plan taking all the drivers of water
-scarcity into account. Any intervention plan will inevitably impact the surrounding areas, as well
+Task 4: For your chosen region, design an intervention plan taking all the drivers of water scarcity into account. Any intervention plan will inevitably impact the surrounding areas, as well
 
 
 
