@@ -14,7 +14,7 @@ description              : &description "Student at HUST"
 url                      : https://SongyangZhang25.github.io # the base hostname & protocol for your site e.g. "https://SongyangZhangt25.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SongyangZhang25.github.io"
-teaser                   : CV2.jpg  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "SongyangZhang"
-  avatar           : "CV2.png"
+  avatar           : "CV2.jpg"
   bio              : "Graduate Student at Huazhong University of Science and Technology (HUST), interest in Power Electronics, Power Conversion Systems"
   location         : "wuhan china"
   employer         :
